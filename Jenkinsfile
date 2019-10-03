@@ -24,7 +24,7 @@ pipeline {
                 }
                 stage("Generate-JavaDoc") {
                     stages {
-                        stage("Build-Generate-JavaDoc-HTML") {
+                        stage("Generate-JavaDoc-HTML") {
                             steps {
                                 snDevOpsStep()
                                 snDevOpsChange()
