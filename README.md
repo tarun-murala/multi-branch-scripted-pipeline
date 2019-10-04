@@ -1,4 +1,4 @@
-Declarative Multi Branch Pipeline that consists for sequential and parallel stages
+Declarative Multi Branch Pipeline that consists of sequential and parallel stages
 ```
 // Declarative Scripted Pipeline
 pipeline {
